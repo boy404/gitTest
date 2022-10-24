@@ -9,6 +9,6 @@ public class hello {
         System.out.println("hello3");
         System.out.println("push");
         System.out.println("pull");
-        
-
+        System.out.println("new push");
+    }
 }
